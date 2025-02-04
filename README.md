@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  Building. Learning. Refining. 🚀
+  Always learning, always iterating. 🚀
 </p>
+
 ---
 
 ## 🚀 Tech Stack
