@@ -6,9 +6,11 @@
 
 <p align="center">
   I love crafting sleek, performant web applications and bringing ideas to life through clean code and engaging interfaces. 
-  Always learning, always iterating. 🚀
 </p>
 
+<p align="center">
+  Building. Learning. Refining. 🚀
+</p>
 ---
 
 ## 🚀 Tech Stack
