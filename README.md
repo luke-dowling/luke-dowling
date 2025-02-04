@@ -32,13 +32,9 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" />
 </p>
 
----
-
 ## 🛠 What I'm Currently Up To
 - 🧑‍💻 Teaching modern web experiences with **React, TypeScript, and Express**
 - 📚 Exploring **Docker, backend optimizations, and DevOps workflows**
 - 💡 Always looking for new challenges and innovative projects
-
----
 
 ## Peace & Code ✌️
