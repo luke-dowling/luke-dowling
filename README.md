@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Luke! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Frontend Enthusiast | UI/UX Explorer</b>
+  <b>Full-Stack Developer | Typescript Enthusiast | UI/UX Explorer</b>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 ## 🛠 What I'm Currently Up To
-- 🧑‍💻 Teaching modern web experiences with **React, TypeScript, and Express**
+- 🧑‍💻 Teaching modern web experiences with **React, TypeScript, PostgreSQL and Express**
 - 📚 Exploring **Docker, backend optimizations, and DevOps workflows**
 - 💡 Always looking for new challenges and innovative projects
 
