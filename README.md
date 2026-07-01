@@ -33,7 +33,7 @@
 </p>
 
 ## 🛠 What I'm Currently Up To
-- 🧑‍💻 Teaching modern web experiences with **React, TypeScript, PostgreSQL and Express**
+- 🧑‍💻 Building web experiences with **Next.js, TypeScript, and PostgreSQL**
 - 📚 Exploring **Docker, backend optimizations, and DevOps workflows**
 - 💡 Always looking for new challenges and innovative projects
 
